@@ -1,6 +1,6 @@
 # DSurv Crypto Token Project
 
-We create our own token for distribution with Angela Yu from the Web Development Bootcamp.
+We create our own token for distribution with Angela Yu from the Web Development Bootcamp. This project was inspired by Curve Finance.
 
 
 ## Screenshot
